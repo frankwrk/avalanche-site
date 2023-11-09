@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avalanchedesigns.ie/sitemap.xml
